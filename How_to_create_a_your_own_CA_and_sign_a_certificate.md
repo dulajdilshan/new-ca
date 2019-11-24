@@ -10,7 +10,7 @@ Here, Lets assume that
 - ‘**test.frontline.com**’ is the service which we want to get a certificate installed in it ( Common Name = ‘**test.frontline.com**’)
 
 
-> * There is nothing to be worried about the **Common Name of the CA**, but service’s Common Name is essential between the end-to-end certificate creation process
+> There is nothing to be worried about the **Common Name of the CA**, but service’s Common Name is essential between the end-to-end certificate creation process
 # Create CA artifacts
 
 This step consist of 3 tasks
