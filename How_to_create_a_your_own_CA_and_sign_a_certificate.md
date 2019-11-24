@@ -15,7 +15,7 @@ Here, Lets assume that
 
 This step consist of 3 tasks
 
-* Better if you can go to a separate directory for better security practices 
+> Better if you can go to a separate directory for better security practices 
 
 ## Task 1: Create CA Private Key
 
